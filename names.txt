@@ -1,4 +1,6 @@
 Student Names:
+Alice
+Johnny hates Jazz
 Bob
 John
 Alice
